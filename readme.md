@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/mudapaka-sai-usha">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="mailto:mudapakasaiushasri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
